@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZTB1A8DM+xaH2zvFLziN6YKrrObkmTM/cAPAMXuxR7E=",
+  "Source": "SendGridAPI",
+  "BasePath": "_content/SendGridAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
